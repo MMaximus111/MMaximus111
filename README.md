@@ -4,6 +4,6 @@
 * `ASP.NET core` 
 * `EF core` `Dapper` 
 * `MySQL` `PostgreSQL` `Redis` `ElasticSearch` 
-* `Docker` 
 * `DDD` `TDD` `Clean Architecture` 
 * `REST` `SignalR` `gRPC`
+* `Docker` `Linux` `AWS`
